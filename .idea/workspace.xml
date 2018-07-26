@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c74a9cd-7f27-4e9d-8300-375b6fb9f048" name="Default" comment="" />
+    <list default="true" id="4c74a9cd-7f27-4e9d-8300-375b6fb9f048" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm-Demo/classic/HanoiTower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/GetMaxWindowArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/SortStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classic/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackqueue/GetMaxWindowArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackqueue/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/ReverseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/ReverseStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/TwoStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Demo/stackqueue/TwoStack.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,37 +22,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetMinStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stackqueue/GetMinStack.java">
+      <file leaf-file-name="HanoiTower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classic/HanoiTower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="324">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoStack.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/stackqueue/TwoStack.java">
+      <file leaf-file-name="GetMaxWindowArr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stackqueue/GetMaxWindowArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="297">
+              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
               <folding>
-                <element signature="e#120#129#0" expanded="true" />
-                <element signature="e#170#179#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -65,12 +74,19 @@
       <replace>minStack</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/stackqueue/GetMinStack.java" />
         <option value="$PROJECT_DIR$/src/stackqueue/ReverseStack.java" />
         <option value="$PROJECT_DIR$/src/stackqueue/TwoStack.java" />
+        <option value="$PROJECT_DIR$/src/stackqueue/SortStack.java" />
+        <option value="$PROJECT_DIR$/src/classic/HanoiTower.java" />
+        <option value="$PROJECT_DIR$/src/stackqueue/GetMaxWindowArr.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -84,9 +100,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="917" />
-    <option name="width" value="1130" />
+    <option name="x" value="-10" />
+    <option name="width" value="1165" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -138,9 +157,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseStack">
-    <configuration name="GetMinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stackqueue.GetMinStack" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GetMaxWindowArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stackqueue.GetMaxWindowArr" />
       <module name="Algorithm-Demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -150,8 +169,35 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classic.HanoiTower" />
+      <module name="Algorithm-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithm-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stackqueue.ReverseStack" />
+      <module name="Algorithm-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stackqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stackqueue.SortStack" />
       <module name="Algorithm-Demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -203,13 +249,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.GetMinStack" />
       <item itemvalue="Application.ReverseStack" />
+      <item itemvalue="Application.SortStack" />
+      <item itemvalue="Application.HanoiTower" />
+      <item itemvalue="Application.GetMaxWindowArr" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GetMaxWindowArr" />
+        <item itemvalue="Application.HanoiTower" />
+        <item itemvalue="Application.SortStack" />
         <item itemvalue="Application.ReverseStack" />
-        <item itemvalue="Application.GetMinStack" />
       </list>
     </recent_temporary>
   </component>
@@ -224,15 +276,16 @@
       <option name="presentableId" value="Default" />
       <updated>1532510917314</updated>
       <workItem from="1532510920425" duration="6369000" />
-      <workItem from="1532568254135" duration="4801000" />
+      <workItem from="1532568254135" duration="15176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11170000" />
+    <option name="totallyTimeSpent" value="21545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -243,9 +296,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32689655" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32596686" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3301105" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22005208" />
@@ -255,7 +308,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917126" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -273,58 +326,14 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>12</line>
-          <properties class="stackqueue.ReverseStack" method="reverseStackRecursively">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/stackqueue/GetMaxWindowArr.java</url>
+          <line>66</line>
           <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -384,6 +393,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stackqueue/SortStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stackqueue/TwoStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#120#129#0" expanded="true" />
+            <element signature="e#170#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/stackqueue/GetMinStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -395,21 +439,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stackqueue/ReverseStack.java">
+    <entry file="file://$PROJECT_DIR$/src/classic/HanoiTower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stackqueue/TwoStack.java">
+    <entry file="file://$PROJECT_DIR$/src/stackqueue/GetMaxWindowArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="297">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding>
-            <element signature="e#120#129#0" expanded="true" />
-            <element signature="e#170#179#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_77/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
