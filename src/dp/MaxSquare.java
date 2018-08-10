@@ -18,6 +18,10 @@ package dp;
  *      Output: 4
  *
  * 思路：dp，状态转移方程 dp[i][j] = Math.min( Math.min(dp[i - 1][j], dp[i][j - 1]), dp[i - 1][j -1]) + 1
+ *
+ *
+ *      2 2
+ *      2 3  +1为了记录之前的状态
  */
 public class MaxSquare {
     public int maximalSquare(char[][] matrix) {
